@@ -13,6 +13,7 @@ color: blue;
 }
 
 .button{
+	color: white;
 	background-image: linear-gradient(45deg, #3385ff,#ac00e6);
 	margin: 0 auto;
 	width: 25%;
